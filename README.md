@@ -14,7 +14,7 @@ I am an AI developer and open-source founder from India, exploring the intersect
 🚀 My Current Project: Vidurai
 Vidurai is an open-source memory layer that teaches AI the art of strategic forgetting. It helps developers build stateful, efficient, and personalized AI agents that remember wisely.
 
-<p align="center"> <a href="https://github.com/chandantochandan/vidurai"> <img src="https://img.shields.io/github/stars/chandantochandan/vidurai?style=for-the-badge&logo=github&color=f59e0b" alt="GitHub stars"> </a> <a href="https://pypi.org/project/vidurai/"> <img src="https://img.shields.io/pypi/v/vidurai.svg?style=for-the-badge&logo=pypi&color=7c3aed" alt="PyPI version"> </a> <a href="https://discord.gg/DHdgS8eA"> <img src="https://img.shields.io/discord/YOUR_SERVER_ID?style=for-the-badge&logo=discord&color=4f46e5" alt="Discord"> </a> </p>
+<p align="center"> <a href="https://github.com/chandantochandan/vidurai"> <img src="https://img.shields.io/github/stars/chandantochandan/vidurai?style=for-the-badge&logo=github&color=f59e0b" alt="GitHub stars"> </a> <a href="https://pypi.org/project/vidurai/"> <img src="https://img.shields.io/pypi/v/vidurai.svg?style=for-the-badge&logo=pypi&color=7c3aed" alt="PyPI version"> </a> <a href="https://discord.gg/DHdgS8eA"> <img src="https://img.shields.io/discord/1433172856199450676?style=for-the-badge&logo=discord&color=4f46e5" alt="Discord"> </a> </p>
 
 📖 (https://docs.vidurai.ai)
 
