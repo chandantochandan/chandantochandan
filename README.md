@@ -9,7 +9,7 @@ I am an AI developer and open-source founder from India, exploring the intersect
 
 💬 Ask me about AI cognitive architectures, the philosophy of memory, or building open-source communities.
 
-📫 How to reach me: (https://twitter.com/your_handle) or LinkedIn
+📫 How to reach me: (https://x.com/yvidurai)
 
 🚀 My Current Project: Vidurai
 Vidurai is an open-source memory layer that teaches AI the art of strategic forgetting. It helps developers build stateful, efficient, and personalized AI agents that remember wisely.
