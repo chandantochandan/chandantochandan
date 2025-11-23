@@ -1,5 +1,3 @@
-<div align="center">
-  <h1>Chandan</h1>
   <p><strong>Building Vidurai - it remembers context so you don't have to.</strong></p>
 </div>
 
