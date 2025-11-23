@@ -1,61 +1,78 @@
 <div align="center">
-  <h1> Vidurai — The Conscience of the Machine</h1>
-  <p><strong>"विस्मृति भी विद्या है" — Forgetting too is knowledge.</strong></p>
-  <p>Founder • AI Memory Systems • Reinforcement Learning • Human-AI Mediation</p>
+  <h1>Chandan</h1>
+  <p><strong>Building Vidurai - it remembers context so you don't have to.</strong></p>
 </div>
 
-### 👋 Hi, I'm Chandan  
-AI developer + open-source founder from India exploring the intersection of timeless wisdom and intelligent systems.
+---
 
-I build tools that make AI not only *smarter* — but *wiser*.
+**Vidurai** is a universal context and memory layer that sits between your real work (files, terminal, browser) and whatever AI assistant you use.
+
+Instead of dumping raw logs into a model, Vidurai:
+
+- watches your workflow locally (editor, terminal, files, browser)
+- extracts the **gist** instead of the noise  
+- compresses and prioritizes with reinforcement learning  
+- sends a clean, minimal context to the AI only when needed  
+
+The goal is simple:  
+less copy-paste, fewer tokens, clearer answers.
 
 ---
 
-## 🚀 What I'm Building: Vidurai
+## Vidurai Ecosystem
 
-Vidurai is an open-source cognitive layer that gives AI agents **persistent memory with strategic forgetting**.
+Core projects:
 
-It watches your workflows (files, terminals, browser), extracts only what matters, and whispers clean context to your AI — at exactly the right moment.
+- 🧠 **[vidurai](https://github.com/chandantochandan/vidurai)** – RL-powered memory + strategic forgetting engine (Python)  
+- 🛰 **[vidurai-daemon](https://github.com/chandantochandan/vidurai-daemon)** – local context daemon (files, terminal, process awareness)  
+- 🔌 **[vidurai-proxy](https://github.com/chandantochandan/vidurai-proxy)** – universal AI proxy / context layer  
+- 🌐 **[vidurai-website](https://github.com/chandantochandan/vidurai-website)** – marketing site ([vidurai.ai](https://vidurai.ai))  
+- 📖 **[vidurai-docs](https://github.com/chandantochandan/vidurai-docs)** – documentation ([docs.vidurai.ai](https://docs.vidurai.ai))
 
-No more dumping logs.  
-No more lost state.  
-No more hallucinations.  
-Only **signal over noise**.
+Docs and research:
 
----
-
-## 🧠 My Focus Areas  
-- Reinforcement learning for long-term memory  
-- Strategic forgetting (विद्या of omission)  
-- Autonomous agent architectures  
-- Local-first AI tooling  
-- Context optimization for LLMs  
-- Human-AI mediation  
+- 📚 **Docs:** https://docs.vidurai.ai  
+- 🔬 **Research note:** [VIDURAI_RESEARCH.md](https://github.com/chandantochandan/vidurai/blob/main/research/VIDURAI_RESEARCH.md)  
+  - fuzzy-trace theory  
+  - strategic forgetting  
+  - reinforcement-learning based compression
 
 ---
 
-## 🔗 My Ecosystem
-- 🌐 Website: https://vidurai.ai  
-- 📖 Docs: https://docs.vidurai.ai  
-- 🧠 Core Repo: https://github.com/chandantochandan/vidurai  
-- 🤝 Community: https://discord.gg/DHdgS8eA  
+## Themes I Work On
+
+- Memory architectures for LLM-based systems  
+- Reinforcement learning for compression and retention  
+- “Forgetting as a feature”, not a bug  
+- Local-first, privacy-preserving developer tools  
+- Human–AI mediation: making context legible to both sides  
+- Reducing token waste and cognitive overload
 
 ---
 
-## 🛠 Tech Stack  
-Python • RL • OpenAI/Claude APIs • WebSockets • TypeScript • Chrome Extensions • SQLite • LangChain • FastAPI • React
+## Current Focus
+
+- Evolving Vidurai from “library” to **full workflow layer**  
+- Tightening the loop between:
+  - daemon → context mediator → browser / IDE extension → AI  
+- Improving research-backed heuristics for:
+  - when to forget  
+  - what to keep verbatim  
+  - what to reduce to gist  
 
 ---
 
-## 📊 Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandantochandan&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandantochandan&layout=compact&theme=transparent" />
-</p>
+## Tech Stack
 
----
+Main tools I work with:
+
+- **Languages:** Python, TypeScript  
+- **AI / Infra:** OpenAI / Claude APIs, RL, embeddings, vector search  
+- **Backend:** FastAPI, WebSockets, SQLite / file-based stores  
+- **Tooling:** VS Code extensions, browser extensions, Docker, Git  
+
 
 <div align="center">
-  <strong> Building Vidurai in public.  
-  The memory that makes AI wise.</strong>
+  <p>Building Vidurai in public.<br/>
+  Exploring how intelligent forgetting can make AI — and developers — more effective.</p>
 </div>
